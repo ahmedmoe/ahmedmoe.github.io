@@ -1,0 +1,164 @@
+{
+    "personal_info": {
+        "name":     "Kaladin Stormblessed",
+        "email":    "kaladin@knightsradiant.com",
+        "phone":    "+4 567 123 890",
+        "links":  [
+            {
+                "title":    "Home",
+                "url":      "http://github.com/hazrmard/ng-Resume"
+            },
+            {
+                "title":    "Spellwork",
+                "url":      "http://www.example.com"
+            },
+            {
+                "title":    "Shards",
+                "url":      "https://www.example.com"
+            }
+        ]
+    },
+
+    "education":    [
+        {
+            "school":   "Village Clinic",
+            "year":     "4500",
+            "degree":   "Apprenticeship",
+            "major":    "Medicine",
+            "gpa":      "4/7",
+            "courses":  ["First Aid", "Amputation", "Herbs", "Potions", "Balms"],
+            "tags":     ["education"]
+        }
+    ],
+
+    "experience":     [
+        {
+            "title":        "Knight Radiant",
+            "workplace":    "Roshar",
+            "time":         "4523",
+            "achievements": ["Protected Elhokar's armies from the Voidbringers.",
+                            "Defeeated Szeth, the assassin in white.",
+                            "Activated full powers of honorspren Syl."],
+            "technologies": ["Stormlight", "Spearmanship", "Bridges"],
+            "links":        [{
+                "title":    "Warcamp Records",
+                "url":      "https://www.example.com"
+                }],
+            "tags":         ["shardblade", "hero", "windrunner"]
+        },
+        {
+            "title":        "Captain of Bodyguards",
+            "workplace":    "Elhokar Kholin's detail",
+            "time":         "4522 - 4523",
+            "achievements": ["Fought off Szeth after his assassination attempt at the palace.",
+                            "Over saw bodyguard training with new recruits into brdge four.",
+                            "Honed abilities with stormlight."],
+            "technologies": ["Stormlight", "Windrunning"],
+            "links":        [],
+            "tags":         ["protection"]
+        },
+        {
+            "title":        "Captain of Bodyguards",
+            "workplace":    "Dalinar Kholin's Command",
+            "time":         "4522",
+            "achievements": ["Trained in use of shardblades with Adolin Kholin.",
+                            "Protected Adolin Kholin in duel arranged by Sadeas",
+                            "Helped Shallan Deval in the chams by killing a Chasmfeind.",
+                            "Provided valuable advice to Dalinar on security."],
+            "technologies": ["Swordplay", "Stormlight"],
+            "links":        [{
+                "title":    "Scribes Account",
+                "url":      "https://www.example.com"
+                }],
+            "tags":         []
+        },
+        {
+            "title":        "Captain of Bridge Four",
+            "workplace":    "Sadeas' Warcamp",
+            "time":         "4521 - 4522",
+            "achievements": ["Devised new tactics to protect crew from Parshendi arrows.",
+                            "Trained men in use of weapons and strategy.",
+                            "Rescued Dalinar Kholin in battle against Eshonai"],
+            "technologies": ["Stormlight"],
+            "links":        [],
+            "tags":         []
+        }
+    ],
+
+    "projects":   [
+        {
+            "title":        "Escape Plan",
+            "time":         "4522",
+            "blurb":        "Making a run for it",
+            "description":  "A secret plan with members of bridge four to escape from Sadeas's camp. We trained in the chasms during spoil collection duties. We also collected supplies like spheres and weapons.",
+            "technologies": ["Java", "Android", "OAuth2"],
+            "links":        [{
+                "title":    "Horneater's Story",
+                "url":      "https://www.example.com"
+                }],
+            "tags":         ["secret project"]
+        },
+        {
+            "title":        "Escape Plan",
+            "time":         "4520",
+            "blurb":        "Freedom",
+            "description":  "Multiple escape attempts while being transported to the plains in a slave caravan. I gave up after being subdued multiple times.",
+            "technologies": [],
+            "links":        [{
+                "title":    "Syl's Recollection",
+                "url":      "https://www.example.com"
+                }],
+            "tags":         ["tenacity"]
+        }
+    ],
+
+    "skills":   [
+        {
+            "title":        "Warfare",
+            "skills":       ["Strategy", "Bridge Transport", "VIP Security", "Shardblades", "Leadership"]
+        },
+        {
+            "title":        "Miscalleanous",
+            "skills":       ["Medicine", "Quick Healing"]
+        }
+    ],
+
+    "extracurriculars": [
+        {
+            "title":        "Talking with Syl",
+            "time":         "All the time",
+            "description":  ["I like talking with syl because she is good company.",
+                            "She is a quick learner. She an even make jokes now.",
+                            "We don't have to speak. We can hear each other's thoughts."],
+            "details":      "",
+            "links":        [{
+                "title":    "Log of Topics",
+                "url":      "http://www.example.com"
+                }],
+            "tags":         []
+        },
+        {
+            "title":        "Practising Abilities",
+            "time":         "Occasionally",
+            "description":  [],
+            "details":      "I like to hone by skills by regularly practicing. Things I practise include swordsmanship, windrunning, worrying about my crew.",
+            "links":        [{
+                "title":    "Camp Records",
+                "url":      "http://www.example.com"
+                }],
+            "tags":         []
+        }
+    ],
+
+    "honors":       [
+        {
+            "title":        "Killed Shardbearer",
+            "details":      "Brightlord Amaram's army - 4519",
+            "tags":         ["victory"]
+        },
+        {
+            "title":        "Activated Honorspren",
+            "details":      "Battle with Szeth, Truthless of Shinovar",
+            "tags":         ["victory"]
+        }]
+}
